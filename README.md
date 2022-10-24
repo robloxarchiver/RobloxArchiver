@@ -1,11 +1,6 @@
-## Contact
-- Discord: RobloxArchiver#7550
+# About Me
 
-## Languages
-- Lua 
-- C++
-- C#
-
-I am learning all of those above, I am very noobish with them so by no means am I "pro" in anyway! I can manage with them at the most!
+Developer @ FUSION ENTERTAINMENT 
+Learning Lua and C/C++
 
 ## I love Console Modding

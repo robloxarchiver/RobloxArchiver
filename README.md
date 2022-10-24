@@ -1,6 +1,9 @@
 # About Me
 
 Developer @ FUSION ENTERTAINMENT 
-Learning Lua and C/C++
+
+Lua Novice
+C++ Noob
+ASM Reverse-Learner (Cannot learn it for the life of me :( )
 
 ## I love Console Modding

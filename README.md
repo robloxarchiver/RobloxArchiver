@@ -1,11 +1,9 @@
-# About Me
+# **Developer @ FUSION ENTERTAINMENT** 
+# Langs
 
-**Developer @ FUSION ENTERTAINMENT** 
+Lua (Novice)
+ASM (Learning)
+C++ (Learning)
+C# (Noob)
 
-Lua Novice
-
-C++ Noob
-
-ASM Reverse-Learner (Cannot learn it for the life of me :( )
-
-## I love Console Modding
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RobloxArchiver&theme=dark)](https://git.io/streak-stats)

@@ -1,5 +1,5 @@
 # **Developer @ FUSION ENTERTAINMENT**  
-# **Developer @ TheGhettoGame Studios**
+# **Head Developer @ TheGhettoGame Studios**
 
 # Langs
 

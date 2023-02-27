@@ -1,12 +1,10 @@
-# **Developer @ FUSION ENTERTAINMENT**  
-# **Head Developer @ TheGhettoGame Studios**
+# **Head Developer @ TheGhettoGame Studios**  
+# **Developer @ FUSION ENTERTAINMENT**
 
 # Langs
 
-Lua (Novice)  
-ASM (L at it)  
-C/C++ (L at it)  
-C# (QUIT)  
-JS (Willing to relearn)
+Lua (Noob)  
+C/C++ (Learning)  
+Rust (Learning)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RobloxArchiver&theme=dark)](https://git.io/streak-stats)

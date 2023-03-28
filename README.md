@@ -1,6 +1,3 @@
-# **Head Developer @ TheGhettoGame Studios**  
-# **Developer @ FUSION ENTERTAINMENT**
-
 # Langs
 
 Lua (Noob)  

@@ -4,7 +4,7 @@ I enjoy writing tools for Roblox and modding games such as Skyrim, Fallout 4 and
 
 # Programming Languages
 
-Assembly (x86-x64, PPC)
+Assembly (x86-x64, PPC)  
 C/C++ (C99, C++17, C++23)  
 Lua (5.1, LuaJIT, Luau)  
 Papyrus (Skyrim)

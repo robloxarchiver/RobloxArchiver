@@ -10,3 +10,5 @@ Assembly (x86-x64, PPC)
 C/C++ (C99, C++17, C++23)  
 Lua (5.1, LuaJIT, Luau)  
 Papyrus (Skyrim)
+
+<img src="https://komarev.com/ghpvc/?username=robloxarchiver&style=for-the-badge&color=gray">
